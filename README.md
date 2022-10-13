@@ -1,6 +1,6 @@
 # Settings Page Clone
 
-Just an exercise to practice layout some techniques
+Just an exercise to practice some layout techniques
 
 **Screenshoots :**
 
